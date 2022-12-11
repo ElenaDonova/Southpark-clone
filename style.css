@@ -187,6 +187,12 @@ span {
   color: #6e6e6e;
 }
 
+@media (max-width: 390px) {
+  .add-comment-area-name {
+    width: auto;
+  }
+}
+
 textarea {
   color: #6e6e6e;
   border: 1px solid #cccccc;
